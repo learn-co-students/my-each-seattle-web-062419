@@ -9,7 +9,3 @@ def my_each(array)
   array
 
 end
-
-my_each([1,2,3,4]) do |i|
-   i
-end
